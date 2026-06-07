@@ -45,3 +45,7 @@ Thumbs.db
 
 # VS Code config
 .vscode/
+
+# Workspace folders / temporary backups
+Skills de Elite/
+
