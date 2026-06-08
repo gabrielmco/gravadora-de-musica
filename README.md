@@ -1,5 +1,8 @@
 # Truus — Agência Criativa 🚀
 
+![Hero Screenshot](hero-screenshot.png)
+
+
 Este é o website institucional da **Truus**, uma agência criativa especializada em estratégia de marca, redes sociais, produção de vídeo e ativações. O projeto foi construído com tecnologias web modernas para proporcionar uma experiência visual premium, interativa e de altíssimo desempenho.
 
 ---
